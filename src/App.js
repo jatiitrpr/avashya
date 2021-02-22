@@ -8,7 +8,7 @@ const App = ()=>  {
     < >
       <Header/>
       <main>
-      <h1>Welcome To Avashy......///</h1> 
+      <h1>Welcome To Avashy...a</h1> 
       </main> 
       <Footer/>
     </>
